@@ -1,0 +1,6 @@
+2018-12-30 15:50:13,796 - Starting LoggerTest on DESKTOP-CNUCO1A with PID 13828 (started by LYM in H:\WorkSpace\Web\sell)
+2018-12-30 15:50:13,798 - No active profile set, falling back to default profiles: default
+2018-12-30 15:50:16,266 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-30 15:50:16,626 - Started LoggerTest in 3.508 seconds (JVM running for 4.959)
+2018-12-30 15:50:17,063 - info..........
+2018-12-30 15:50:17,076 - Shutting down ExecutorService 'applicationTaskExecutor'

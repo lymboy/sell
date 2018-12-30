@@ -1,0 +1,6 @@
+2018-12-30 15:06:13.058  INFO 12576 --- [main] com.lymboy.sell.LoggerTest               : Starting LoggerTest on DESKTOP-CNUCO1A with PID 12576 (started by LYM in H:\WorkSpace\Web\sell)
+2018-12-30 15:06:13.059  INFO 12576 --- [main] com.lymboy.sell.LoggerTest               : No active profile set, falling back to default profiles: default
+2018-12-30 15:06:15.726  INFO 12576 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-30 15:06:16.159  INFO 12576 --- [main] com.lymboy.sell.LoggerTest               : Started LoggerTest in 3.822 seconds (JVM running for 5.363)
+2018-12-30 15:06:16.474  INFO 12576 --- [main] com.lymboy.sell.LoggerTest               : sdsdsf
+2018-12-30 15:06:16.508  INFO 12576 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
